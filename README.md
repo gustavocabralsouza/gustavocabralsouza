@@ -28,8 +28,7 @@
     <img align="center" alt="LG-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   </div>
  <div style="display: inline_block"><br>
- <span>Pouca experiência, mas já usei:
- </span>
+ <span>Pouca experiência, mas já usei:</span>
     <img align="center" alt="LG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" alt="LG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="LG-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
