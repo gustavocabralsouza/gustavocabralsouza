@@ -1,8 +1,13 @@
-### Olá!, Eu sou o Gustavo Cabral, apaixonado por tecnologia e seu impacto positivo no mundo! 👋
+## Olá!, Eu sou o Gustavo Cabral, apaixonado por tecnologia e seu impacto positivo no mundo! 👋
+### Bem vindo(a) ao meu perfil, sinta-se a vontade por aqui ! 😀😀
 
-- 🔭 Atualmente trabalho com back end...
-- 🌱 Estudando NodeJS ...
-- 🤔 Pronomes: ele/dele ...
+- 🔭 Atualmente trabalho com back end
+- 🌱 Estudando NodeJS e seu ecossistema
+- Me aprofundando em Typescript
+- Amante da inovação e resolução de problemas usando a computação
+- Em constante aprendizado, nunca parar de aprender....
+
+##
 
 <div align="center">
   <a href="https://github.com/gustavocabralsouza"></a>
